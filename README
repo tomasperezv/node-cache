@@ -1,0 +1,5 @@
+node-cache
+
+	Author: tom@0x101.com
+
+	A key value storage implemented in node.js, accessible via a RESTFUL HTTP API.
